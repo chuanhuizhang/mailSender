@@ -6,7 +6,7 @@ This is a simple mail sender.
   the following text:
         Subject: "HTML Form Test". 
         Body: "Sent via HTML form using PHP to {submitted email address}"
-（Assigned by Davide Torres)
+（Assigned by David Torres)
 
 In this project, I use a package form phpMailer which is better than the main() function of php.
 This package contains a phpMailer class. The class contains the attributes and functions of sending Email.
